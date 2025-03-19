@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QoEhOyLFU8g=",
+  "success": true,
+  "projectFilePath": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/CHW1_SD/FinApp/ClassLibrary/ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512"
+  ],
+  "logs": []
+}
