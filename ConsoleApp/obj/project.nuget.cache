@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6rgxRSvj8Ms=",
+  "dgSpecHash": "1BTADVVHPWIBciHDL6KOFIZA18Xuk28ufb8RBgGnrQdOCFzFL0g9jdwgQ3ZMDzwUMLelPrOd20X25d9MKiXLow==",
   "success": true,
   "projectFilePath": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/CHW1_SD/ConsoleApp/ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/emreguuv/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512"
+  ],
   "logs": []
 }
