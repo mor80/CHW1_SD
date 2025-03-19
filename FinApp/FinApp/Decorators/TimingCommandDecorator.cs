@@ -1,7 +1,7 @@
 using System.Diagnostics;
-using ConsoleApp.Commands.Abstractions;
+using FinApp.Commands.Abstractions;
 
-namespace ConsoleApp.Decorators;
+namespace FinApp.Decorators;
 
 public class TimingCommandDecorator : ICommand
 {

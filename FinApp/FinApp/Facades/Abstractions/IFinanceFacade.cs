@@ -1,6 +1,6 @@
 using ClassLibrary.Entities;
 
-namespace ConsoleApp.Facades.Abstractions;
+namespace FinApp.Facades.Abstractions;
 
 public interface IFinanceFacade
 {

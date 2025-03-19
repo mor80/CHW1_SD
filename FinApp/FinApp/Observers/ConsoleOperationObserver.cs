@@ -1,7 +1,7 @@
 using ClassLibrary.Entities;
-using ConsoleApp.Observers.Abstractions;
+using FinApp.Observers.Abstractions;
 
-namespace ConsoleApp.Observers;
+namespace FinApp.Observers;
 
 public class ConsoleOperationObserver : IOperationObserver
 {

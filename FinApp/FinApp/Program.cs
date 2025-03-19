@@ -4,10 +4,10 @@ using ClassLibrary.Containers;
 using ClassLibrary.Containers.Abstractions;
 using ClassLibrary.Factories;
 using ClassLibrary.Factories.Abstractions;
-using ConsoleApp.Facades;
-using ConsoleApp.Facades.Abstractions;
-using ConsoleApp.Observers;
-using ConsoleApp.Observers.Abstractions;
+using FinApp.Facades;
+using FinApp.Facades.Abstractions;
+using FinApp.Observers;
+using FinApp.Observers.Abstractions;
 using Microsoft.Extensions.DependencyInjection;
 
 

@@ -1,6 +1,6 @@
 using ClassLibrary.Entities;
 
-namespace ConsoleApp.Observers.Abstractions;
+namespace FinApp.Observers.Abstractions;
 
 public interface IOperationObserver
 {

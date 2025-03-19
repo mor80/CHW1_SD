@@ -1,4 +1,4 @@
-namespace ConsoleApp.Commands.Abstractions;
+namespace FinApp.Commands.Abstractions;
 
 public interface ICommand
 {

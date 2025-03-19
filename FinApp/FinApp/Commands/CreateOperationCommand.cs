@@ -1,8 +1,8 @@
 using ClassLibrary.Entities;
-using ConsoleApp.Commands.Abstractions;
-using ConsoleApp.Facades.Abstractions;
+using FinApp.Commands.Abstractions;
+using FinApp.Facades.Abstractions;
 
-namespace ConsoleApp.Commands;
+namespace FinApp.Commands;
 
 public class CreateOperationCommand : ICommand
 {

@@ -1,8 +1,8 @@
 using ClassLibrary.Containers.Abstractions;
 using ClassLibrary.Entities;
-using ConsoleApp.Commands;
-using ConsoleApp.Decorators;
-using ConsoleApp.Facades.Abstractions;
+using FinApp.Commands;
+using FinApp.Decorators;
+using FinApp.Facades.Abstractions;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace ConsoleApp.UI;

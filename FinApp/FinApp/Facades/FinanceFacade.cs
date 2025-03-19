@@ -1,10 +1,10 @@
 using ClassLibrary.Containers.Abstractions;
 using ClassLibrary.Entities;
 using ClassLibrary.Factories.Abstractions;
-using ConsoleApp.Facades.Abstractions;
-using ConsoleApp.Observers.Abstractions;
+using FinApp.Facades.Abstractions;
+using FinApp.Observers.Abstractions;
 
-namespace ConsoleApp.Facades;
+namespace FinApp.Facades;
 
 public class FinanceFacade : IFinanceFacade
 {
