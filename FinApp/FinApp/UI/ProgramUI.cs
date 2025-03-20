@@ -183,7 +183,7 @@ public class ProgramUI
             categoryName = Console.ReadLine();
         }
 
-        Console.Write("Выберите тип (1 - Доход, 2 - Расход): ");
+        Console.Write("Выберите тип (Доход - введите 1, Расход введите 2): ");
         CategoryType type;
         var key = Console.ReadKey();
         Console.WriteLine();
@@ -207,7 +207,7 @@ public class ProgramUI
             newName = Console.ReadLine();
         }
 
-        Console.Write("Выберите новый тип (1 - Доход, 2 - Расход): ");
+        Console.Write("Выберите новый тип (Доход - введите 1, Расход введите 2): ");
         CategoryType newType;
         var key = Console.ReadKey();
         Console.WriteLine();
@@ -298,7 +298,7 @@ public class ProgramUI
         var category = SelectCategory();
         if (category == null)
             return;
-        Console.Write("Выберите тип операции (1 - Доход, 2 - Расход): ");
+        Console.Write("Выберите тип операции (Доход - введите 1, Расход введите 2): ");
         OperationType opType;
         var opKey = Console.ReadKey();
         Console.WriteLine();
@@ -338,7 +338,7 @@ public class ProgramUI
             Console.Write("Некорректная дата. Введите дату операции (yyyy-MM-dd): ");
         }
 
-        Console.Write("Выберите новый тип операции (1 - Доход, 2 - Расход): ");
+        Console.Write("Выберите новый тип операции (Доход - введите 1, Расход - введите 2): ");
         OperationType newType;
         var opKey = Console.ReadKey();
         Console.WriteLine();
